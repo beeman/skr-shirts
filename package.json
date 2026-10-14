@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "opentype.js": "^2.0.0"
+  },
+  "name": "skr-shirts",
+  "private": true,
+  "scripts": {
+    "generate": "bun generate.ts"
+  },
+  "type": "module"
+}
